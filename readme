@@ -1,0 +1,16 @@
+# MVP: Servicio Predictivo de Riesgo Legal con IA y MCP
+
+# 1. Objetivo
+# Detectar riesgos jurídicos en documentos de clientes corporativos usando LLMs conectados a MCP
+
+# 2. Entradas
+# - Documento(s) en texto plano (contratos, emails, actas...)
+# - Perfil legal del cliente (sector, ubicación, normativas relevantes)
+# - Contexto histórico de interacciones legales (si está disponible)
+
+# 3. Salidas
+# - Informe de riesgos detectados
+# - Recomendaciones legales automáticas
+# - Alertas proactivas configurables (por tema, gravedad, vencimientos)
+
+# 4. Componentes
